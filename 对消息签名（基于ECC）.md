@@ -28,7 +28,7 @@ First U and V should use the setup procedure to establish which options to use t
 
 1. *Hash* 表示哈希函数，*Hashlen*表示生成的八进制哈希值
 
-2. U去建立椭圆曲线域参数 T = *(p,a,b,G,n,h)*或者 T = *(m,f(x),a,b,G,n,h)* 
+2. U去建立椭圆曲线域参数 T = *(p,a,b,G,n,h)* 或者 T = *(m,f(x),a,b,G,n,h)* 
 3. V去获得*Hash* 和参数T
 
 ##### 密钥生成
