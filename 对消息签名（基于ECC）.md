@@ -33,8 +33,8 @@ First U and V should use the setup procedure to establish which options to use t
 
 ##### 密钥生成
 
-1. U生成密钥对($d_U$,$Q_U$) 
-2. V获取U的公钥$Q_U$
+1. U生成密钥对($$d_U$$,$$Q_U$$) 
+2. V获取U的公钥$$Q_U$$
 
 ##### 签名过程
 
