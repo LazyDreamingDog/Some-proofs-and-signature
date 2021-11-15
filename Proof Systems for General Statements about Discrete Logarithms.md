@@ -1,4 +1,4 @@
-## Proof Systems for General Statements about Discrete Logarithms
+# Proof Systems for General Statements about Discrete Logarithms
 
 摘要：
 
@@ -6,7 +6,7 @@
 
 
 
-#### Introduction
+## Introduction
 
 这篇文章的目的是确定离散对数证明的基本技术并推广，规定一些符号用于离散对数问题证明，推导出有效的证明系统的方法
 
@@ -22,7 +22,7 @@
 
 第七节：总结
 
-#### Section2     Preliminaries
+## Section2     Preliminaries
 
 离散对数：
 
@@ -34,7 +34,7 @@
 
 
 
-#### Section3     Proofs of Knowledge
+## Section3     Proofs of Knowledge
 
 通俗的说，知识证明允许 *prover* 去让 *verifier* 相信他知道某个难以解决的问题的解决方法
 
@@ -46,7 +46,7 @@
 
 -  *verifier* 不获得过于*prover*值得的解决方案的有用信息（有用信息存在不同定义，如zero-knowledge 零知识，witness-hiding，minimum-disclosure 最小披露）
 
-###### Example 1
+#### Example 1
 
 为了证明y=g<sup>x</sup>对基g的离散对数的知识，prover计算了以下值:
 
